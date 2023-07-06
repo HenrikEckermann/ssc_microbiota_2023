@@ -1,0 +1,6 @@
+data/*
+docs/*
+fig/*
+picrust2/*
+Rmd/*
+.DS_Store
